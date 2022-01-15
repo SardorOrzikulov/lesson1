@@ -16,4 +16,12 @@
 #print(f"Men {name} {surName} o`ktam o`g`li {birthYear} yilda tug`ilganman!")
 #print('Hello World')
 #print('Hello\tWorld')
-
+#user='sardor'
+#bro='abduhalim'
+#userbro=f'{user}ni akasi {bro}'
+#print(userbro.upper())
+#print(userbro.upper())
+#print(userbro.lower())
+#print(userbro.title())
+#print(userbro.capitalize())
+print(20//4 + 8)
