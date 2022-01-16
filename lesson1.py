@@ -24,4 +24,14 @@
 #print(userbro.lower())
 #print(userbro.title())
 #print(userbro.capitalize())
-print(20//4 + 8)
+#print(20//4 + 8)
+#print('U+1F463')
+#print('👣')
+name="sardor"
+#print('mening ismim'    +     name.capitalize())
+#print('mening ismim'f"{name}")
+#print(f"mening ismim {name}")
+print(f"mening ismim\n\t{name.upper()}")
+#print('mening ismim\t'f"{name.title()}")
+#print(f"mening ismim {name.title()}")
+
