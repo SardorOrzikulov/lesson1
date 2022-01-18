@@ -27,11 +27,36 @@
 #print(20//4 + 8)
 #print('U+1F463')
 #print('👣')
-name="sardor"
+#name="     sardor      " 
 #print('mening ismim'    +     name.capitalize())
 #print('mening ismim'f"{name}")
 #print(f"mening ismim {name}")
-print(f"mening ismim\n\t{name.upper()}")
+#print(f"mening ismim {name.title()}")
 #print('mening ismim\t'f"{name.title()}")
 #print(f"mening ismim {name.title()}")
+#print("mening ismim sardor".title())
+#print(("mening ismim " + name).title())
+#print('меня зовут сардор'.upper())
+#print(name)
+#print(name.lstrip().upper())
+##print(name.rstrip())
+#print(name.strip())
+#name="    Sardor      Orzikulov      "
+#print(name.lstrip())
+#print(name.rstrip())
+#print(name.strip().capitalize())
+#name=input("ismingiz nima?")
+#print("xush kelibsiz "+name.capitalize())
+#name=input("ismingiz nima?\n>>>".upper())
+#print(("xush kelibsiz "+name).upper())
+input("ismingiz nima?")
+
+
+
+
+
+
+
+
+
 
