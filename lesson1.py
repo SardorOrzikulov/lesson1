@@ -50,16 +50,15 @@
 #name=input("ismingiz nima?\n>>>".upper())
 #print(("xush kelibsiz "+name).upper())
 #print("Sardor".casefold())
-kocha=input("Assalomu aleykum\nIltimos quyidagi ma'lumotlarni kiriting\n>>>\nko\'changiz? ")
-mahalla=input("mahallangiz? ")
-shahar=input("shahringiz? ")
-viloyat=input("viloyatingiz? ")
-print(f"Demak siz \n{viloyat.capitalize()} viloyati,\n{shahar.title()} tumani, \n{mahalla.title()} mahallasi, \n{kocha.title()} ko'chasida turasiz.\nQanday chiqipti?😋😋😋")
-
-
-
-
-
-
-
+#kocha=input("Assalomu aleykum\nIltimos quyidagi ma'lumotlarni kiriting\n>>>\nko\'changiz? ")
+#shahar="koson"
+#viloyat=input("viloyatingiz? ")
+#print(f"Demak siz \n{viloyat.capitalize()} viloyati,\n{shahar.title()} tumani, \n{mahalla.title()} mahallasi, \n{kocha.title()} ko'chasida turasiz.\nQanday chiqipti?😋😋😋")
+#name="sardor"
+#print("mening ismim ",name)
+#a,b,c=2,3.5,-2
+#print(type(a),(b), (shahar)) 
+yosh=int(input("yoshingiz?"))
+yil=f"siz {2021-yosh} yokida {2022-yosh}da tug'ilgansiz"
+print(yil)
 
