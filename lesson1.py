@@ -49,9 +49,12 @@
 #print("xush kelibsiz "+name.capitalize())
 #name=input("ismingiz nima?\n>>>".upper())
 #print(("xush kelibsiz "+name).upper())
-input("ismingiz nima?")
-
-
+#print("Sardor".casefold())
+kocha=input("Assalomu aleykum\nIltimos quyidagi ma'lumotlarni kiriting\n>>>\nko\'changiz? ")
+mahalla=input("mahallangiz? ")
+shahar=input("shahringiz? ")
+viloyat=input("viloyatingiz? ")
+print(f"Demak siz \n{viloyat.capitalize()} viloyati,\n{shahar.title()} tumani, \n{mahalla.title()} mahallasi, \n{kocha.title()} ko'chasida turasiz.\nQanday chiqipti?😋😋😋")
 
 
 
