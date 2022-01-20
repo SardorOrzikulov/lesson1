@@ -58,7 +58,24 @@
 #print("mening ismim ",name)
 #a,b,c=2,3.5,-2
 #print(type(a),(b), (shahar)) 
-yosh=int(input("yoshingiz?"))
-yil=f"siz {2021-yosh} yokida {2022-yosh}da tug'ilgansiz"
-print(yil)
-
+#yosh=int(input("yoshingiz?"))
+#yil=f"siz {2021-yosh} yokida {2022-yosh}da tug'ilgansiz"
+#print(yil)
+#print("4 ning kvadrati ",4**3, " ga teng")
+#a=input("istalgan soningizni kiriting\n>>> ")
+#print(f'{a} ning kvadrati {int(a)**2} ga teng\nUning kubi esa {int(a)**3} ga teng')
+#a=( "sardor".capitalize() , 18)
+#print(a) 
+#b=("      " ,   )
+#print(a+b)
+#c=15,16
+#=16
+#print(c+d)
+#a=[     ]
+#b=[" "]
+#c=[" ",     ]
+#print(a)
+#print(b)
+#print(c)
+a="   "
+print(a)
